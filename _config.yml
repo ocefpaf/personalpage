@@ -1,0 +1,24 @@
+# Site settings.
+title: Dra. Juliana Leonel
+name: Página Pessoal
+safe: true
+email: juoceano@gmail.com
+
+description: "Página pessoal da Professora Doutora Juliana Leonel do Departamento de Oceanografia--IGeo, Universidade Federal da Bahia"
+baseurl: "/personalpage"
+url: "http://juoceano.github.io"
+twitter_username: juoceano
+github_username:  juoceano
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+#layout: default
+#relative_permalinks: false
+#google_analytics_id: UA-9133259-16
+#repository: https://github.com/juoceano/personalpage
+#collections:
+  #comparisons:
+    #output: true
