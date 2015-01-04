@@ -4,5 +4,43 @@ title: Home
 home: true
 ---
 
-Página pessoal da Professora Doutora Juliana Leonel do Departamento de
-Oceanografia--IGeo, Universidade Federal da Bahia
+**Sobre mim**
+
+Eu me formei em oceanologia na Universidade Federal do Rio Grande e de lá
+"migrei" para a Universidade de São Paulo para fazer doutorado em Oceanografia
+Química.  Durante o meu doutoramento fiz um intercâmbio de um ano onde tive a
+oportunidade de trabalhar no *Geochemical Environmental Research Group* na
+*Texas A&M University* (*College Station, TX*) e no *New York Health Department*
+(*Albany, NY*).  Depois de finalizar meu doutorado tirei "férias" da
+oceanografia e passei um período nos EUA melhorando meu inglês, estudando francês e
+aprendendo de como preparar ovos
+(*sunny side up x over easy, well done x over hard*) e as diferenças entre
+*blueberry, blackberry, raspberry* (minha preferida) e várias outras *berries*.
+Posteriormente fiz dois pós doutorados, um na FURG e outro na USP.  Hoje sou
+professora do Departamento de Oceanografia no Instituto de Geociências da
+Universidade Federal da Bahia.
+
+<br>
+
+**Áreas de Interesse**
+
+a) poluição marinha por compostos orgânicos.
+
+b) paleoceanografia.
+
+c) geoquímica da matéria orgânica.
+
+<br>
+
+**Qualificações**
+
+Bacharelado em Oceanografia (FURG - Rio Grande, RS, 2004)
+Doutorado Oceanografia Química (USP - São Paulo, SP, 2007)
+
+<br>
+
+**Funções**
+
+Professora Adjunto do Departamento de Oceanografia na UFBA
+Vice-chefe do Departamento de Oceanografia
+Vice-chefe do Programa de Pós Graduação em Geoquímica: Petróleo e Meio Ambiente

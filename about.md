@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: ""
 permalink: /about/
 ---
 
 Dra. Juliana Leonel
 Departamento de Oceanografia - IGeo
 Universidade Federal da Bahia
-
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel=
 "license"><img alt="Creative Commons License" src=
