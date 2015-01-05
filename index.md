@@ -4,9 +4,8 @@ title: Home
 home: true
 ---
 
-**Sobre mim**
 
-Eu me formei em oceanologia na Universidade Federal do Rio Grande e de lá
+Eu me formei em oceanologia na [Universidade Federal do Rio Grande](http://www.furg.br/) e de lá
 "migrei" para a Universidade de São Paulo para fazer doutorado em Oceanografia
 Química.  Durante o meu doutoramento fiz um intercâmbio de um ano onde tive a
 oportunidade de trabalhar no *Geochemical Environmental Research Group* na
@@ -35,6 +34,7 @@ c) geoquímica da matéria orgânica.
 **Qualificações**
 
 Bacharelado em Oceanografia (FURG - Rio Grande, RS, 2004)
+
 Doutorado Oceanografia Química (USP - São Paulo, SP, 2007)
 
 <br>
@@ -42,5 +42,7 @@ Doutorado Oceanografia Química (USP - São Paulo, SP, 2007)
 **Funções**
 
 Professora Adjunto do Departamento de Oceanografia na UFBA
+
 Vice-chefe do Departamento de Oceanografia
+
 Vice-chefe do Programa de Pós Graduação em Geoquímica: Petróleo e Meio Ambiente
