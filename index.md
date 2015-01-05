@@ -40,8 +40,8 @@ Doutorado Oceanografia Química (USP - São Paulo, SP, 2007)
 
 **Funções**
 
-Professora Adjunto do [Departamento de Oceanografia na UFBA] (http://www.oceanografia.ufba.br/) 
+Professora Adjunto do [Departamento de Oceanografia na UFBA](http://www.oceanografia.ufba.br/) 
 
 Vice-chefe do Departamento de Oceanografia
 
-Vice-chefe do Programa de Pós Graduação em Geoquímica: Petróleo e Meio Ambiente - [POSPETRO] (http://www.pospetro.geo.ufba.br/)
+Vice-chefe do Programa de Pós Graduação em Geoquímica: Petróleo e Meio Ambiente - [POSPETRO](http://www.pospetro.geo.ufba.br/)
