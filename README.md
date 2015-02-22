@@ -1,4 +1,6 @@
 personalpage
 ============
 
-Personal page by Ju
+Juliana Leonel personal page.
+
+Rendered version at: http://juoceano.github.io/personalpage/
