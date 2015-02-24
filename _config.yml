@@ -17,8 +17,5 @@ highlighter: pygments
 
 layout: default
 relative_permalinks: false
-google_analytics_id: UA-9133259-16
+google_analytics_id: UA-22786274-2
 repository: https://github.com/juoceano/personalpage
-#collections:
-  #comparisons:
-    #output: true
